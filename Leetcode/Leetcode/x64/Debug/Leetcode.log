@@ -1,0 +1,5 @@
+﻿  LinkedList.cpp
+  List.cpp
+D:\Desktop files\temp\learn_cpp\Leetcode\Leetcode\List.cpp(11,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  Leetcode.vcxproj -> D:\Desktop files\temp\learn_cpp\Leetcode\x64\Debug\Leetcode.exe
